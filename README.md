@@ -85,13 +85,26 @@ The testing approach employed structured exploratory testing guided by predefine
 
 ## Defect Distribution
 
-| Severity | Count | Category    | Count |
-| -------- | ----- | ----------- | ----- |
-| Critical | 0     | UI          | 3     |
-| High     | 1     | Functional  | 8     |
-| Medium   | 11    | UX          | 1     |
-| Low      | 0     | Performance | 0     |
-| Total    | 12    | Security    | 0     |
+### By Severity
+
+| Severity  | Count  |
+| --------- | ------ |
+| Critical  | 0      |
+| High      | 1      |
+| Medium    | 11     |
+| Low       | 0      |
+| **Total** | **12** |
+
+### By Category
+
+| Category    | Count  |
+| ----------- | ------ |
+| UI          | 3      |
+| Functional  | 8      |
+| UX          | 1      |
+| Performance | 0      |
+| Security    | 0      |
+| **Total**   | **12** |
 
 ## Testing Artifacts
 
